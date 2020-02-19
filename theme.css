@@ -1,0 +1,171 @@
+.ui-jqgrid .ui-jqgrid-htable th.ui-th-ltr
+{
+	/*border: 1px solid transparent!important;
+    border-image: linear-gradient(to bottom, #3acfd5 0%, #3a4ed5 100%)!important; 
+    border-image-slice: 1!important;*/
+	border-bottom: 0px!important;
+}
+.siebui-row-counter
+{
+	display: none!important;
+}
+
+.ui-tabs-anchor
+{
+    background-color: white!important;
+	color: black!important;
+	border-style: solid!important;
+	border-top-right-radius: 0px!important;
+	border-color: lightgrey!important;
+	border-width: 1px!important;
+	border-bottom: 1px solid white!important;
+	font: 13pt Raleway, sans-serif!important;
+}
+.siebui-nav-tabs
+{
+	border-bottom-style: solid!important;
+	border-bottom-color: lightgrey!important;
+	border-bottom-width: 1px!important;
+	border-collapse: collapse!important;
+	margin-bottom: 0px!important;
+	top: 1px;
+}
+.ui-tabs-nav
+{
+	margin-left: 0.5%!important;
+}
+
+.siebui-subview-navs {
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+	margin-bottom: 0px!important;
+}
+
+.siebui-sub-applets
+{
+	margin: 0px!important;
+	border-style: none!important;
+	padding-top: 0px!important;
+	border-collapse: collapse!important;
+}
+
+.siebui-appletmenu-btn
+{
+	border-left-style: solid!important;
+	border-left-color: lightgrey!important;
+	border-left-width: 1px!important;
+	border-collapse: collapse!important;
+}
+
+.siebui-empty-tabs
+{
+	display: none!important;
+}
+
+.siebui-applet
+{
+	margin: 0px!important;
+}
+
+.ui-state-default
+{
+	border-collapse: collapse!important;
+	border-bottom: 1px solid lightgrey!important;
+	position: relative!important;
+	top: 1px!important;
+}
+
+.ui-tabs-active
+{
+	background-color: #fff!important;
+	border-bottom: 1px solid white!important;
+	border-collapse: collapse!important;
+	position: relative!important;
+	top: 1px!important;
+}
+
+tr:nth-child(even) td
+{
+	background-color: inherit!important;
+}
+
+.ui-jqgrid .ui-jqgrid-htable
+{
+	background-color: white!important;
+}
+
+.ui-jqgrid .ui-jqgrid-htable .ui-jqgrid-resize
+{
+	background-color: white!important;
+}
+
+.siebui-applet-header
+{
+	margin-bottom: 0px!important;
+	min-height: 35px!important;
+}
+
+.ui-th-column
+{
+	text-align: left!important;
+}
+
+.cs-applet-title-div
+{
+	border-bottom: 1px solid lightgrey!important;
+	padding-left: 0.5%!important;
+}
+.cs-applet-title
+{
+	padding: 5px 10px!important;
+	margin: 10px 0px -1px 1px!important;
+	border: 1px solid lightgrey!important;
+	border-bottom: 1px solid white!important;
+	font: 13pt Raleway, sans-serif!important;
+	position: relative!important;
+    top: 1px!important;
+}
+
+div[title="Activities List Applet"] button.siebui-appletmenu-btn::before {
+	content: url("../../IMAGES/cogwheel.jpg")!important;
+}
+
+.icon-contact-call
+{
+	background: url("../../IMAGES/contactCall.png") no-repeat;
+	background-position: center center;
+}
+
+.icon-calendar
+{
+	background: url("../../IMAGES/icon_calendar_31.gif") no-repeat;
+	background-position: center center;
+}
+
+.icon-appointment
+{
+	background: url("../../IMAGES/icon_appointment.gif") no-repeat;
+	background-position: center center;
+}
+
+.icon-call
+{
+	background: url("../../IMAGES/icon_call_enabled.gif") no-repeat;
+	background-position: center center;
+}
+
+.icon-default
+{
+	background: url("../../IMAGES/icon_alarm.gif") no-repeat;
+	background-position: center center;
+}
+
+.icon-contact-call span, .icon-calendar span ,.icon-appointment span,.icon-call span, .icon-default span 
+{
+	display: none;
+}
+
+/*table.ui-pg-table
+{
+	display: none!important;
+}*/
