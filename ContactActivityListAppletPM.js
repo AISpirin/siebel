@@ -5,7 +5,7 @@ if (typeof(SiebelAppFacade.ContactActivityListAppletPM) === "undefined")
     {
         SiebelAppFacade.ContactActivityListAppletPM = (function()
         {
-
+            //first commit
             function ContactActivityListAppletPM(pm)
             {
                 SiebelAppFacade.ContactActivityListAppletPM.superclass.constructor.apply(this, arguments);
